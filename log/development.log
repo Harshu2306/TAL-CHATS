@@ -1979,3 +1979,129 @@ Processing by ChatroomController#index as HTML
 Completed 200 OK in 4108ms (Views: 4107.2ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2022-03-20 17:32:30 +0530
+  [1m[35m (0.3ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  ↳ /home/harsh/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.7/lib/active_record/log_subscriber.rb:98
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 297ms (Views: 294.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:32:42 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.3ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 42ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:45:25 +0530
+  [1m[35m (0.3ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  ↳ /home/harsh/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.7/lib/active_record/log_subscriber.rb:98
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 40ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:46:17 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 46ms (Views: 45.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:48:11 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 50ms (Views: 48.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:48:15 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 56ms (Views: 54.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:48:15 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 56ms (Views: 54.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:48:16 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 41ms (Views: 39.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:48:16 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.3ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 44ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:48:16 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 45ms (Views: 43.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:48:16 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 36ms (Views: 35.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:51:59 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 41ms (Views: 40.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:55:55 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.2ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 37ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 17:56:59 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.3ms)
+  Rendered chatroom/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 43ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2022-03-20 18:03:39 +0530
+  [1m[35m (0.6ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  ↳ /home/harsh/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.7/lib/active_record/log_subscriber.rb:98
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered layouts/_navigation.html.erb (0.5ms)
+  Rendered chatroom/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 69ms (Views: 66.6ms | ActiveRecord: 0.0ms)
+
+
